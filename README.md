@@ -1,2 +1,0 @@
-# ReduxThunkLiveWithJsonPlaceholderAPI
-Created with CodeSandbox
